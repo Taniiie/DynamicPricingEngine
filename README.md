@@ -11,11 +11,11 @@ This project demonstrates a real-time AI-driven pricing system that continuously
 
 ```mermaid
 graph LR
-    A[Stream Generator] --> B[Pathway Pipeline]
-    B --> C[Pricing Engine]
-    C --> D[Compliance Check (RAG)]
-    D --> E[Real-Time Dashboard]
-    D --> F[API Endpoints]
+    A["Stream Generator"] --> B["Pathway Pipeline"]
+    B --> C["Pricing Engine"]
+    C --> D["Compliance Check (RAG)"]
+    D --> E["Real-Time Dashboard"]
+    D --> F["API Endpoints"]
 ```
 
 ## Setup Instructions
