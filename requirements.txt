@@ -1,0 +1,10 @@
+pathway
+fastapi
+uvicorn[standard]
+confluent-kafka
+pandas
+python-dotenv
+requests
+river
+openai
+streamlit

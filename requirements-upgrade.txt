@@ -1,0 +1,9 @@
+streamlit
+websocket-client
+websockets
+pandas
+numpy
+rank_bm25
+faiss-cpu
+nltk
+matplotlib
